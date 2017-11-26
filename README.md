@@ -8,4 +8,4 @@ Code and report for work "Colorize Colorful Images" (HVEI 2018)
 ![Demo](images/demos.png)
 
 # Release
-Paper and code will be released recently, as long as the author successfully survives from a bunch of deadlines T_T.
+Paper and code will be released recently, after author finished his final exams. QAQ
