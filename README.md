@@ -8,6 +8,6 @@ Code and report for work "Colorize Colorful Images" (HVEI 2018)
 ![Demo](images/demos.png)
 
 # Release
-We provide two implementations in [Torch](torch.ch) with Lua and [PyTorch](pytorch.org) with python.
+We provide two implementations in [Torch](http://torch.ch) with programming language Lua and [PyTorch](http://pytorch.org) with Python.
 
-Torch implementation is ready. PyTorch will come soon.
+[Torch implementation](src/) is ready. PyTorch will come soon.
