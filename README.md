@@ -1,5 +1,9 @@
-# Colorize-Color-Images
-Code and report for work "Colorize Colorful Images" (HVEI 2018)
+Colorize Colorful Images [arXiv coming soon]
+
+[Ligeng Zhu](https://lzhu.me/) and [Brian Funt](http://www.cs.sfu.ca/~funt/) 
+
+[Computational Vision Lab @ Simon Fraser University](http://www.cs.sfu.ca/research/groups/Vision/)
+
 
 # Network structure
 ![Network Structure](images/structure.png)
