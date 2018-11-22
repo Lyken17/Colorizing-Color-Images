@@ -1,4 +1,4 @@
-Colorize Colorful Images. *In HEVI 2018*. [paper](http://www.cs.sfu.ca/~funt/Zhu+Funt_Colorizing-Color-Images_PreprintVersion_HVEI2018.pdf)
+Colorize Colorful Images. *In HEVI 2018*. [Paper](http://www.cs.sfu.ca/~funt/Zhu+Funt_Colorizing-Color-Images_PreprintVersion_HVEI2018.pdf)
 
 [Ligeng Zhu](https://lzhu.me/) and [Brian Funt](http://www.cs.sfu.ca/~funt/) 
 
